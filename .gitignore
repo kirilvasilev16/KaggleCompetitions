@@ -1,0 +1,5 @@
+#Dataset files
+*.csv
+
+#Ipython Notebook
+.ipynb_checkpoints
